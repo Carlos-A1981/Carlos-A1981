@@ -2,7 +2,8 @@
 - 👀 I’m interested in  Python;  
 - 🌱 I’m currently leing Python através da plataforma Udemy;  
 - 💞️ I’m looking to collaborate  na área de Ciência de Dados.
-- 📫 How to reach me ...https://www.linkedin.com/in/carlos-alberto-d    os-santos-a60     881a    4    
+- 📫 Você pode chegar até o meu perfil profissional no endereço www.linkedin.com/in/carlos-alberto-dos-santos-a60881a4
+  
 
 
 <!---
