@@ -2,7 +2,8 @@
 - 👀 I’m interested in  Python;  
 - 🌱 I’m currently learning Data Science do Zero;  
  💞️ I’m looking to collaborate  in the area of Data Science.
-- 📫 Você pode chegar até o meu perfil profissional no endereço www.linkedin.com/in/carlos-alberto-dos-santos-a60881a4  
+- 📫 You can reach my professional profile at the adress www.linkedin.com/in/carlos-alberto-dos-santos-a60881a4
+
   
 
 
