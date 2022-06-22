@@ -1,8 +1,7 @@
 - 👋 Olá, Eu sou @Carlos-A1981;
 - 👀 Estou interessado em Ciência de Dados (JavaScript/ Python);
-- 🌱 Iniciei o curso da Ciência da Computação de Harvard (CS50) no Brasil (CC50), oferecido pela Fundação Estudar em Junho de 2022;
-- 📫 Você pode acessar o meu perfil profissional no LinkedIn através do endereço www.linkedin.com/in/carlos-alberto-dos-santos-a60881a4.
-
+- 🌱Iniciei o curso da Ciência da Computação de Harvard (CS50) no Brasil (CC50), oferecido pela Fundação Estudar em Junho de 2022;
+- 📫 Você pode acessar o meu perfil profissional no LinkedIn através do endereço www.linkedin.com/in/carlos-alberto-dos-santos-a60881a4
   
 
 
